@@ -10,6 +10,8 @@ Additionally, I've just realised that maybe I need to make this thing do 'pip in
 
 
 ## Future goals for the project
+_(Each of these may be packaged into a separate project for easy finding)_
 - Make this a little more user-friendly => Tkinter interface where you can set the flashbang parameters instead of having to go into the code
 - Instead of flashbang white screen, flashbang with an image instead
+- Detect headphone user and only flashbang when there are headphones connected
 - Package files into .exe, which will make it a lot easier for it to delete itself
