@@ -1,6 +1,10 @@
 # flashbang
 A Python program that flashbangs you. Created 25/10/2025. Currently in development. 
 
+As with all stupid projects I do, I must preface with "I am not responsible for whatever stupid thing you decide to do with this program".
+
+Basically what it does is it flashbangs the living daylights out of you. It's also highly customisable.
+
 ## How to use:
 Download the folder into a machine. Run the flashbang program.
 
